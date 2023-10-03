@@ -1,18 +1,8 @@
 
 ## Controle de Fluxo - Desafio - DIO
-- projeto para entregar
-##
-
-| Desafio de código | Controle de Fluxo |
-|--|--|
-| Módulo | Criando Um Pequeno Sistema Para Validação de Processo Seletivo |
-| Com | Gleyson Sampaio |
-| Bootcamp | Santander Bootcamp 2023 - Fullstack Java+Angular |
-| Plataforma | DIO |
-
 
 <br>
-Estudo de Java.
+
 
 <br>
 
@@ -29,15 +19,6 @@ Dentro do projeto, crie a classe ParametrosInvalidosException que representará 
 
 <br>
 
-
-Localização do desafio:
-```
-├── src
-│   ├── contador
-|  
-```
-
-<br>
 
 ##
 ### Tecnologias utilizadas:
