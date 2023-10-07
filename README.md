@@ -70,7 +70,5 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou aprimo
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
----
 
-Este desafio é uma oportunidade para praticar e aprimorar suas habilidades em Controle de Fluxo em Java. Divirta-se codificando e boa sorte!
 
